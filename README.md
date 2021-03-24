@@ -1,2 +1,5 @@
-# n200-doc
-The purpose of this repo is to hold the document for the commercial Nuclei N200 processor core series. 
+# Importance Notice
+
+**This project will no longer be updated and maintained**.
+
+To get latest n200 documentation, please change to https://www.nucleisys.com/
